@@ -1,17 +1,16 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
-    "icons": [
-      {
-        "src": "/assets/images/icons/icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      }
-    ]
-  }
-  
+  "name": "Lab8_Starter",
+  "short_name": "Hanbin Tan",
+  "description": "A food finder application.",
+  "start_url": "http://127.0.0.1:5500/",
+  "display": "standalone",
+  "background_color": "#00000",
+  "theme_color": "#00000",
+  "icons": [
+    {
+      "src": "/assets/images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
